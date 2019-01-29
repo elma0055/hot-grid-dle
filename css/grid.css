@@ -1,7 +1,12 @@
 .grid {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .unit {
   width: 33.3333%;
+}
+
+.s-1 {
+  width: 100%;
 }
